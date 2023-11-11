@@ -1,0 +1,20 @@
+*{
+    border-collapse:collapse;
+}
+table{
+    border: 2px solid orange;
+    border-top: none;
+    border-radius: 10px;
+}
+th{
+    border: 2px solid rgb(87, 87, 87);
+    border-radius: 2px;
+    background-color: gray;
+    height: 40px;
+}
+td{
+    border: 2px solid orange;
+    height: 35px;
+    width: 250px;
+}
+
